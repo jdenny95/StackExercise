@@ -1,0 +1,7 @@
+C:\Users\Jack\source\repos\StackExercise\StackExercise\bin\Debug\StackExercise.exe.config
+C:\Users\Jack\source\repos\StackExercise\StackExercise\bin\Debug\StackExercise.exe
+C:\Users\Jack\source\repos\StackExercise\StackExercise\bin\Debug\StackExercise.pdb
+C:\Users\Jack\source\repos\StackExercise\StackExercise\obj\Debug\StackExercise.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\StackExercise\StackExercise\obj\Debug\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\StackExercise\StackExercise\obj\Debug\StackExercise.exe
+C:\Users\Jack\source\repos\StackExercise\StackExercise\obj\Debug\StackExercise.pdb
