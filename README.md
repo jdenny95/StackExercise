@@ -1,5 +1,5 @@
 # StackExercise
-This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course on Udemy.
+This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course by Mosh Hamedani on Udemy.
 
 Exercise: Design a Stack
 
